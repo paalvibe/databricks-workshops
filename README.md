@@ -1,11 +1,11 @@
 # Databricks Workshops
-Description of some databricks workshops and learning material
+Description of some databricks workshops and learning material we have developed at Knowit.
 
 ## Workshops (Knowit toppturer)
 
 These workshops are 2.5h hands-on workshops for learning various important aspects of databricks.
 
-At Know we call these workshops **Toppturer**, giving quick but meaningful experience with a technology/tool/framework.
+At Knowit we call these workshops **Toppturer**, giving quick but meaningful experience with a technology/tool/framework.
 
 <img width="724" alt="image" src="https://github.com/paalvibe/databricks-workshops/assets/264435/dea1f874-b9b5-49d3-b2c1-345d591a051e">
 
