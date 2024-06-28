@@ -7,14 +7,14 @@ These workshops are 2.5h hands-on workshops for learning various important aspec
 
 At Knowit we call these workshops **Toppturer**, giving quick but meaningful experience with a technology/tool/framework.
 
-<img width="724" alt="image" src="https://github.com/paalvibe/databricks-workshops/assets/264435/dea1f874-b9b5-49d3-b2c1-345d591a051e">
-
 Available workshops:
 
 * Workshop: Data engineering on Databricks
 * Workshop: Using LangChain and open LLM-models on Databricks
 * Workshop: LLM Adaptation on Databricks
 * Workshop: DataOps on Databricks, using git and versioning of tables, jobs and code
+
+<img width="524" alt="image" src="https://github.com/paalvibe/databricks-workshops/assets/264435/dea1f874-b9b5-49d3-b2c1-345d591a051e">
 
 ### Workshop: Data engineering on Databricks
 
