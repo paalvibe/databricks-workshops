@@ -9,6 +9,12 @@ At Knowit we call these workshops **Toppturer**, giving quick but meaningful exp
 
 <img width="724" alt="image" src="https://github.com/paalvibe/databricks-workshops/assets/264435/dea1f874-b9b5-49d3-b2c1-345d591a051e">
 
+Available workshops:
+
+* Workshop: Data engineering on Databricks
+* Workshop: Using LangChain and open LLM-models on Databricks
+* Workshop: LLM Adaptation on Databricks
+* Workshop: DataOps on Databricks, using git and versioning of tables, jobs and code
 
 ### Workshop: Data engineering on Databricks
 
@@ -28,7 +34,7 @@ Topics:
 
 Link: 
 
-### Workshop: Using LangChain and open LLM-modeller on Databricks
+### Workshop: Using LangChain and open LLM-models on Databricks
 
 Link: [https://github.com/paalvibe/llm-langchain-course](https://github.com/paalvibe/llm-langchain-course)
 
@@ -55,7 +61,7 @@ For: Anybody
 Topics:
 
 * What is an LLM (Large Language Model)?
-* Tuning of LLM-modeller on Databricks
+* Tuning of LLM models on Databricks
 * Different modes of adapting LLMs
 * When and when not to train your own LLM? 
   
