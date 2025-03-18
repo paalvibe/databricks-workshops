@@ -82,7 +82,7 @@ Topics:
 
 Pre-requisites: Some python knowledge
 
-### FUTURE Workshop: DataOps on Databricks part 2
+### Workshop: DataOps on Databricks part 2
 
 For: Data Engineers, Full stack data scientists, ML Engineers, Data Platform Engineers
 
