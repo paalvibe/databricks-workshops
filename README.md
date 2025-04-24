@@ -10,9 +10,11 @@ At Knowit we call these workshops **Toppturer**, giving quick but meaningful exp
 Available workshops:
 
 * Workshop: Data engineering on Databricks
+* Workshop: AgentOps on Databricks
 * Workshop: Using LangChain and open LLM-models on Databricks
 * Workshop: LLM Adaptation on Databricks
 * Workshop: DataOps on Databricks, using git and versioning of tables, jobs and code
+* Workshop: DataOps on Databricks p2: DLT, Data Quality Checks, DQX, Data contracts
 
 <img width="524" alt="image" src="https://github.com/paalvibe/databricks-workshops/assets/264435/dea1f874-b9b5-49d3-b2c1-345d591a051e">
 
