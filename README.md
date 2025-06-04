@@ -10,7 +10,7 @@ At Knowit we call these workshops **Toppturer**, giving quick but meaningful exp
 Available workshops:
 
 * Workshop: Data engineering on Databricks
-* Workshop: AgentOps on Databricks
+* Workshop: BotOps/AgentOps/LLMOps on Databricks
 * Workshop: Using LangChain and open LLM-models on Databricks
 * Workshop: LLM Adaptation on Databricks
 * Workshop: DataOps on Databricks, using git and versioning of tables, jobs and code
@@ -66,10 +66,29 @@ Topics:
 * Tuning of LLM models on Databricks
 * Different modes of adapting LLMs
 * When and when not to train your own LLM? 
-  
+
+### Workshop: BotOps/AgentOps/LLMOps on Databricks, using git and versioning of models agents and code
+
+Link: [https://github.com/brickops/databricks-botops-course](https://github.com/brickops/databricks-dataops-course)
+
+For: Data Engineers, Full stack data scientists, ML Engineers, Data Platform Engineers
+
+Learn how to build git-based LLM apps, with proper environment separation (dev, staging, prod).
+
+* How to build LLM Apps on Databricks
+* Git based LLM App Operations
+* Deploy development versions of LLM Apps
+* Deploy production versions of LLM Apps
+* Evaluation driven development of LLM Apps
+* How does app versioning relate to test data
+
+LLM apps could also be called bots, or agents if they can take autonomous actions.
+
+Pre-requisites: Some python knowledge
+
 ### Workshop: DataOps on Databricks, using git and versioning of tables, jobs and code
 
-Link: [https://github.com/paalvibe/databricks-dataops-course](https://github.com/paalvibe/databricks-dataops-course)
+Link: [https://github.com/brickops/databricks-dataops-course](https://github.com/brickops/databricks-dataops-course)
 
 For: Data Engineers, Full stack data scientists, ML Engineers, Data Platform Engineers
 
@@ -86,9 +105,12 @@ Pre-requisites: Some python knowledge
 
 ### Workshop: DataOps on Databricks part 2
 
+Link: [https://github.com/brickops/databricks-dataops-course](https://github.com/brickops/databricks-dataops-course)
+
 For: Data Engineers, Full stack data scientists, ML Engineers, Data Platform Engineers
 
 * How to enable data contracts and data quality checks in pipelines
 * Difference between Delta Live Tables and regular databricks notebooks
 
 Pre-requisites: Some python knowledge
+
